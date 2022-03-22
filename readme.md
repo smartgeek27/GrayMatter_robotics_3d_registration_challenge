@@ -4,6 +4,7 @@ The folder contains 3 files:
 2. results.txt - The best results can be seen in the results.txt file for each point cloud class. A evaluation method to compare the error between transformation matrix an the ground truth is proposed as in this ex :
 
 'bag': (0.0015420208909381781, 0.5306024551391602).
+
 The prior value shows the error , the later shows the computation time to run the algorith.
 
 The error is computed by the means squared difference algorithm. The lower the value, more close the transformation matrix is to the ground truth. 
